@@ -51,7 +51,7 @@ express-api-week2/
 1. **Clone the repository**
 
 ```bash
-git clone <your-classroom-repo-url>
+git clone <https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-BeeTechie28.git>
 cd express-api-week2
 
 2. Install Dependencies
@@ -75,6 +75,7 @@ http://localhost:3000/api/products
 👨‍💻 Author
 Blessing Ogbobula
 Express.js Week 2 – REST API Assignment
+
 
 
 
